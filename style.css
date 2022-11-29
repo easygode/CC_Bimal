@@ -1,0 +1,51 @@
+
+header{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.Titolo{
+  font-family: sans-serif, verdana;
+  font-size: 15px;
+  color: #12E533;
+}
+
+.banner{
+  background-color: #12E533;
+  width: 70%;
+  text-align: center;
+  margin-left: 15%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.monopattino{
+  font-family: sans-serif, verdana;
+  padding-top: 15px;
+  text-align: left;
+  margin-left: 15%;
+  text-align: left;
+}
+
+input{
+  font-family: sans-serif, verdana;
+  font-size: 14px;
+}
+
+h4{
+  font-family: sans-serif, verdana;
+  font-size: 12px;
+  font-style: normal;
+  line-height: 0px;
+}
+
+.verde{
+  color: green;
+  width: 50%;
+}
+
+*{
+  box-sizing: border-box;
+}
